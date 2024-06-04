@@ -6,3 +6,6 @@ Our comprehensive services are designed to meet your unique needs, offering ever
 *With clear communication and personalized planning, we keep you informed and relaxed at every step.*
 *At Mopack, customer satisfaction is our mission. We strive to make your move as seamless as possible, providing reliable support and professional handling of your items.* 
 *Experience an affordable, high-quality move that allows you to focus on the excitement of your new beginning. Trust Mopack to make your next move a breeze*
+
+## Used Technologies.
+*We have decided to Purely use CSS and HTML*
